@@ -11,4 +11,4 @@ I started to like programming 'cause the websites projects I could make funny th
     - You can find here: https://unreal-god-games-makers.itch.io/
 - I study programming in general, but I focus in applications and games
 ## Portifoio
-*This is my game Portifolio made with Kaboom JS: * https://unreal-god-games-makers.itch.io/2d-portifolio-game
+*This is my game Portifolio made with Kaboom JS:* https://unreal-god-games-makers.itch.io/2d-portifolio-game
